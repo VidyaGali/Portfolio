@@ -13,4 +13,4 @@
 - Bootstrap
 
 ## Home Page Visuals
-[Lets see the my Portfolio]( https://vidyagali.github.io/portfolio/)
+[Lets see the my Portfolio](https://vidyagali.github.io/portfolio/)
